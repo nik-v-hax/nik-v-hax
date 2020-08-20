@@ -5,7 +5,13 @@ my mates used to call me a
 > very nice dude
 > really nice dude
 
-@ben.fornefeld broski
+companies | time spent there
+------------ | -------------
+Google | 10 years
+Facebook | 20 years
+
+
+@ben-fornefeld broski
 @QuantumGray bre
  
 occasionally i write medium articles
