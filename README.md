@@ -2,16 +2,21 @@
 ## I'm Niklas and  in love with nearly every developer product from GOOGLE - mostly @flutter & @kubernetes
 my mates used to call me a
 >nice dude.
+
 >very nice dude.
+
 >really nice dude.
+
+[QuantumGray](https://github.com/QuantumGray)
+
+***
 
 companies | time spent there
 ------------ | -------------
 Google | 10 years
 Facebook | 20 years
 
-# @ben-fornefeld
-@mentions
+"@mentions"
 @ben-fornefeld broski
 @QuantumGray bre
  
