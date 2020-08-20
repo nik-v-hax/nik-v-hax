@@ -16,12 +16,12 @@ Facebook | 20 years
 @QuantumGray bre
  
 occasionally i write medium articles
-(Medium)[https://medium.com/@nik.v.hax]
+[Medium](https://medium.com/@nik.v.hax)
 
 craft your own profile page:
 * initialize a repository with the repository-name being equal to your username
 * place a README.md into it
-* get familiar with (markdown)[https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf] and lets go!
+* get familiar with [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) and lets go!
 
 ```javascript
 function test() {
