@@ -1,9 +1,9 @@
 # Whatup 👋
 ## I'm Niklas and  in love with nearly every developer product from GOOGLE - mostly @flutter & @kubernetes
 my mates used to call me a
-> nice dude
-> very nice dude
-> really nice dude
+>nice dude.
+>very nice dude.
+>really nice dude.
 
 companies | time spent there
 ------------ | -------------
@@ -28,3 +28,6 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
