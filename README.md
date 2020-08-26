@@ -3,11 +3,11 @@
 
 > consciousness is the ability to self-simulate
 
-> [intelligence + math](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/917b7ea3-7fc1-46fe-bbe2-e13fdc394bbe/screenshot-storage.googleapis.com-2020.07.14-22_30_12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200826%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200826T175049Z&X-Amz-Expires=86400&X-Amz-Signature=dee77ac57fb3521486c727e4a8be0e9d5dd6d4afae67b0295b5fdf9773474d5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22screenshot-storage.googleapis.com-2020.07.14-22_30_12.png%22)
+> [intelligence expressed in math](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/917b7ea3-7fc1-46fe-bbe2-e13fdc394bbe/screenshot-storage.googleapis.com-2020.07.14-22_30_12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200826%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200826T175049Z&X-Amz-Expires=86400&X-Amz-Signature=dee77ac57fb3521486c727e4a8be0e9d5dd6d4afae67b0295b5fdf9773474d5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22screenshot-storage.googleapis.com-2020.07.14-22_30_12.png%22)
 
 ***
 
-### projects | about
+projects | about
 ------------ | -------------
 [QuantumGray](https://github.com/QuantumGray) | software powerhouse
 [FlutterCreator](https://github.com/QuantumGray/flutter_creator) | Flutter CLI python to start with app templates
@@ -19,12 +19,3 @@
 * initialize a repository with the repository-name being equal to your username
 * place a README.md into it
 * get familiar with [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) and lets go!
-
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
