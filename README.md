@@ -3,7 +3,7 @@
 
 > consciousness is the ability to self-simulate
 
-> [intelligence expressed in math](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/917b7ea3-7fc1-46fe-bbe2-e13fdc394bbe/screenshot-storage.googleapis.com-2020.07.14-22_30_12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200826%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200826T175049Z&X-Amz-Expires=86400&X-Amz-Signature=dee77ac57fb3521486c727e4a8be0e9d5dd6d4afae67b0295b5fdf9773474d5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22screenshot-storage.googleapis.com-2020.07.14-22_30_12.png%22)
+> [intelligence expressed in math](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/917b7ea3-7fc1-46fe-bbe2-e13fdc394bbe/screenshot-storage.googleapis.com-2020.07.14-22_30_12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200903T190817Z&X-Amz-Expires=86400&X-Amz-Signature=1dd3742f8277e8105fb7a7ed0b343a6523736c4f3acb97dcd0ce452cad14c05d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22screenshot-storage.googleapis.com-2020.07.14-22_30_12.png%22)
 
 ***
 
