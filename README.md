@@ -1,5 +1,5 @@
 # Whatup 👋
-## I'm Niklas and in love with nearly a few developer products from [GOOGLE](https://developers.google.com/) -> mostly [Flutter](https://flutter.dev/) & [TensorFlow](https://www.tensorflow.org/)
+## I'm Niklas and in love with some great developer products from [GOOGLE](https://developers.google.com/) -> mostly [Flutter](https://flutter.dev/) & [TensorFlow](https://www.tensorflow.org/)
 
 > consciousness is the ability to self-simulate
 
@@ -10,8 +10,9 @@
 projects | about
 ------------ | -------------
 [QuantumGray](https://github.com/QuantumGray) | software powerhouse
-[FlutterCreator](https://github.com/QuantumGray/flutter_creator) | Flutter CLI python to start with app templates
-[Medium](https://medium.com/@nik.v.hax) | occasionally I try to garden my Medium blog
+[FlutterCreator](https://github.com/QuantumGray/flutter_creator) | Flutter tool to create apps from templates
+[Medium](https://medium.com/@nik.v.hax) | occasionally gardening my Medium blog
+[Notion](https://www.notion.so/shareables-c11f41c9443e4d8ba9e29152e59e810c) | collection of the shareable knowledge
 
 ***
 
