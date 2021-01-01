@@ -12,7 +12,8 @@
 projects | about
 ------------ | -------------
 [QuantumGray](https://github.com/QuantumGray) | software powerhouse
-[FlutterCreator](https://github.com/QuantumGray/flutter_creator) | Flutter tool to create apps from templates
+[githubread.me](https://githubread.me) | visual README editor
+[creator](https://github.com/QuantumGray/flutter_creator) | Flutter tool to create apps from templates
 [Medium](https://medium.com/@nik.v.hax) | occasionally gardening my Medium blog
 [Notion](https://www.notion.so/shareables-c11f41c9443e4d8ba9e29152e59e810c) | collection of the shareable knowledge
 
