@@ -17,8 +17,3 @@ projects | about
 [Notion](https://www.notion.so/shareables-c11f41c9443e4d8ba9e29152e59e810c) | collection of the shareable knowledge
 
 ***
-
-## craft your own profile page:
-* initialize a repository with the repository-name being equal to your username
-* place a README.md into it
-* get familiar with [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) and lets go!
